@@ -1,1 +1,1 @@
-Personal portfolio website
+Personal portfolio website for Erasmus Mundus Joint Master's Degree
