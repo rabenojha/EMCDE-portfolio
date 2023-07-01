@@ -377,7 +377,7 @@ section {
   position: relative;
 }
 .section-title h2 {
-  font-size: 32px;
+  font-size: 22px;
   font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 20px;
@@ -394,7 +394,7 @@ section {
   right: 0;
   z-index: 1;
   font-weight: 700;
-  font-size: 52px;
+  font-size: 32px;
   text-transform: uppercase;
   line-height: 0;
 }
